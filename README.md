@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1390-average-selling-price](https://github.com/patrycjamilo1/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/patrycjamilo1/leetcode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/patrycjamilo1/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/patrycjamilo1/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
